@@ -1,0 +1,7 @@
+# Build artifacts
+*.plasmoid
+
+# Editor / OS noise
+.DS_Store
+*.swp
+*~

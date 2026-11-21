@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "arthurp01"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "A simple, modern task list for your desktop",
+        "Icon": "checkmark",
+        "Id": "io.github.arthurp01.neotask",
+        "License": "MIT",
+        "Name": "NeoTask",
+        "Version": "1.2.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
