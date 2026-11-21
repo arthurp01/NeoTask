@@ -116,7 +116,8 @@ neotask/
 ├── assets/
 │   ├── neotask-logo-bw.png       # black logo mark (light theme)
 │   ├── neotask-logo-bw-white.png # white logo mark (dark theme)
-│   └── neotask-logo-bw-square.png # black square app icon / social preview
+│   ├── neotask-logo-bw-square.png # black square app icon / social preview
+│   └── widget-screens/           # screenshots (transparent backgrounds)
 ├── install.sh                    # install/update from source
 ├── package.sh                    # build neotask.plasmoid
 ├── .gitignore
