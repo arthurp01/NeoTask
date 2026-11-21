@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/neotask-logo.png" width="96" alt="NeoTask logo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/neotask-logo-white.png">
+    <img src="assets/neotask-logo.png" width="96" alt="NeoTask logo">
+  </picture>
 </p>
 
 # NeoTask — Plasma 6 widget
@@ -111,8 +114,9 @@ neotask/
 │   ├── config/main.xml           # configuration key (tasks as JSON)
 │   └── ui/main.qml               # interface and logic
 ├── assets/
-│   ├── neotask-logo.png          # transparent logo mark
-│   └── neotask-logo-square.png   # square app icon / social preview
+│   ├── neotask-logo.png          # black logo mark (light theme)
+│   ├── neotask-logo-white.png    # white logo mark (dark theme)
+│   └── neotask-logo-square.png   # black square app icon / social preview
 ├── install.sh                    # install/update from source
 ├── package.sh                    # build neotask.plasmoid
 ├── .gitignore
