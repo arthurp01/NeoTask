@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/neotask-logo-white.png">
-    <img src="assets/neotask-logo.png" width="96" alt="NeoTask logo">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/neotask-logo-bw-white.png">
+    <img src="assets/neotask-logo-bw.png" width="96" alt="NeoTask logo">
   </picture>
 </p>
 
@@ -114,9 +114,9 @@ neotask/
 │   ├── config/main.xml           # configuration key (tasks as JSON)
 │   └── ui/main.qml               # interface and logic
 ├── assets/
-│   ├── neotask-logo.png          # black logo mark (light theme)
-│   ├── neotask-logo-white.png    # white logo mark (dark theme)
-│   └── neotask-logo-square.png   # black square app icon / social preview
+│   ├── neotask-logo-bw.png       # black logo mark (light theme)
+│   ├── neotask-logo-bw-white.png # white logo mark (dark theme)
+│   └── neotask-logo-bw-square.png # black square app icon / social preview
 ├── install.sh                    # install/update from source
 ├── package.sh                    # build neotask.plasmoid
 ├── .gitignore
