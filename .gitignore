@@ -1,5 +1,6 @@
 # Build artifacts
 *.plasmoid
+*.zip
 
 # Editor / OS noise
 .DS_Store

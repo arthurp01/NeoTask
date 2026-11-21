@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/neotask-logo.png" width="96" alt="NeoTask logo">
+</p>
+
 # NeoTask — Plasma 6 widget
 
 A simple, modern task list for KDE Plasma 6.
@@ -106,6 +110,9 @@ neotask/
 ├── contents/
 │   ├── config/main.xml           # configuration key (tasks as JSON)
 │   └── ui/main.qml               # interface and logic
+├── assets/
+│   ├── neotask-logo.png          # transparent logo mark
+│   └── neotask-logo-square.png   # square app icon / social preview
 ├── install.sh                    # install/update from source
 ├── package.sh                    # build neotask.plasmoid
 ├── .gitignore
