@@ -25,6 +25,18 @@ dependencies and no network access.
 - Context-menu action **Clear completed tasks**
 - Standard text-field shortcuts (Enter validates)
 
+## Screenshots
+
+Empty state, active tasks, completed tasks, and the To-do view when everything
+is done.
+
+<p align="center">
+  <img src="assets/widget-screens/1.png" width="300" alt="NeoTask — empty state">
+  <img src="assets/widget-screens/2.png" width="300" alt="NeoTask — active tasks"><br>
+  <img src="assets/widget-screens/3.png" width="300" alt="NeoTask — completed tasks">
+  <img src="assets/widget-screens/4.png" width="300" alt="NeoTask — all done">
+</p>
+
 ## Installation
 
 ### From source
